@@ -5,7 +5,7 @@
 ######Codigo fuente del taller python en la web
 
 ######Autor: Carlos Eduardo Cárcamo
-######Video: http://www.youtube.com/embed/7i6k2IoVvdo
+######Video: http://www.youtube.com/watch?v=7i6k2IoVvdo
 
 Lenguajes 
 ---------
