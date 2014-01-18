@@ -58,7 +58,7 @@ existen varias maneras de hacerlo, listamos un par de ellas:
 
 Instalación de mongodb:
 ---------
-Ver la documentación oficia:
+Ver la documentación oficial:
 
 http://docs.mongodb.org/manual/installation/
 
@@ -70,7 +70,7 @@ Referencia: http://api.mongodb.org/python/current/installation.html
 
 Importando la base de datos a mongoDB
 ---------
-Asegurarse de tener mongo correctamente instalado y corriendo
+Asegurarse de tener mongodb correctamente instalado y corriendo
 
 `$mongoimport -d taller_app -c talleres talleres_collection.json`
 
