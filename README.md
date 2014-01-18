@@ -1,11 +1,11 @@
 [Comunidad de Software Libre UESOcc](https://www.facebook.com/groups/csluesfmocc)
 =================================================================================
 
-#Taller python en la web (Bottle framework)
-#####Codigo fuente del taller python en la web
+##Taller python en la web (Bottle framework)
+######Codigo fuente del taller python en la web
 
-#####Autor: Carlos Eduardo Cárcamo
-#####Video: http://www.youtube.com/embed/7i6k2IoVvdo
+######Autor: Carlos Eduardo Cárcamo
+######Video: http://www.youtube.com/embed/7i6k2IoVvdo
 
 Lenguajes 
 ---------
